@@ -16,10 +16,10 @@ public class NenSimulation {
             System.out.println("====== " + name + " Stats" + " ======");
 
             //create object from nenUser class
-            NenUser user1 = new NenUser(name);
+            NenUser hunterUser = new NenUser(name);
 
             System.out.println("=====================================================");
-            System.out.print("Try Again? ");
+            System.out.print("Press 'Y' to continue or Press any key to exit: ");
             String retry = sc.next();
             if(retry.equalsIgnoreCase("y")) {
                 sc.nextLine();
