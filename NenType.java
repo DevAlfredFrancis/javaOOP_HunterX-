@@ -9,10 +9,8 @@ public class NenType {
     }
 
     //getters
-    public String getName() {
-        return name;
-    }
-
+    public String getName() { return name; }
+    
     public String getWaterEffect() {
         return waterEffect;
     }
