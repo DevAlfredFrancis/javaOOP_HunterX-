@@ -48,7 +48,7 @@ This project applies several Java programming concepts, including:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hxh-nen-simulation.git
+git clone https://github.com/DevAlfredFrancis/javaOOP_HunterX-.git
 ```
 
 2. Open the project in your preferred Java IDE.
